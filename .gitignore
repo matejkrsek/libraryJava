@@ -1,0 +1,65 @@
+# Compiled class files
+/server/*.class
+
+# Log files
+/server/*.log
+
+# BlueJ files
+/server/*.ctxt
+
+# Mobile Tools for Java (J2ME)
+server/.mtj.tmp/
+
+# Package Files #
+/server/*.jar
+/server/*.war
+/server/*.nar
+/server/*.ear
+/server/*.zip
+/server/*.tar.gz
+/server/*.rar
+
+# Virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+/server/hs_err_pid*
+/server/replay_pid*
+
+# Eclipse project files
+/server/.project
+/server/.classpath
+
+# Maven specific files
+/server/target/
+server/pom.xml.tag
+server/pom.xml.releaseBackup
+server/pom.xml.versionsBackup
+server/pom.xml.next
+server/release.properties
+server/dependency-reduced-pom.xml
+server/buildNumber.properties
+
+# Gradle specific files
+/server/.gradle/
+/server/build/
+
+# Avoid gradle-wrapper.jar file
+!/server/gradle-wrapper.jar
+
+# IntelliJ IDEA project files
+/server/.idea/
+/server/*.iml
+/server/*.iws
+/server/out/
+
+# VS Code project files
+/server/.vscode/
+
+# MacOS system files
+/server/.DS_Store
+
+# Windows system files
+/server/Thumbs.db
+
+# Client folder ignore rules
+
+# Node modules
+/client/node_modules/
